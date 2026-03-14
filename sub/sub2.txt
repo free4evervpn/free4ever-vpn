@@ -1,7 +1,7 @@
 #profile-title: Free4ever VPN
 #profile-update-interval: 24
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
-#announce: github.com/free4evervpn/free4ever-vpn/ | Кол-во серверов: 26
+#announce: 🔴 Серверы не работают
 
 vless://21915536-afb5-4a0c-b047-fcf549d3a173@87.239.105.109:443?encryption=none&type=tcp&security=reality&fp=chrome&sni=wikihow.com&pbk=1HeKf_8KDjfzXfUi9P7WBaGStMvr96TKdUbofpkwBzQ&sid=8bd29483ded126b4#🇷🇺 Россия 1 | Free4ever VPN
 vless://4262ba73-f5ba-07d0-9714-a2a8a19ae6d8@5.188.141.137:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=max.ru&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323#🇷🇺 Россия 2 | Free4ever VPN
