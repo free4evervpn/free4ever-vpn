@@ -1,5 +1,5 @@
 #profile-title: Free4ever VPN
-#profile-update-interval: 24
+#profile-update-interval: 6
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 #announce: 🏆 Лучший Бесплатный VPN
 
@@ -27,4 +27,4 @@ vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@104.17.156.229:80?path=%2F&security
 vless://42fc15d6-1eed-4013-a4c9-3e77915fb817@152.89.244.175:8443?security=reality&encryption=none&pbk=4gcDJumxa0bTaHvrZRL4Hb5ItXPha6ZYZ0fGmMD_k0A&headerType=none&fp=random&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=tradingview.com&sid=1afc9d750da1ba88#🇫🇮 Финляндия [Супербыстрый]
 vless://42fc15d6-1eed-4013-a4c9-3e77915fb817@85.192.48.45:8443?security=reality&encryption=none&pbk=4gcDJumxa0bTaHvrZRL4Hb5ItXPha6ZYZ0fGmMD_k0A&headerType=none&fp=random&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=tradingview.com&sid=1afc9d750da1ba88#🇫🇮 Финляндия #2 [Резервный]
 vless://d47535c4-5c44-4581-b49c-692745360a60@194.36.39.173:8443?security=reality&encryption=none&pbk=7HejPU15kdTl9QG_8AygEM3w0ythsbhG6q_SwUumyR0&headerType=none&fp=random&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=rbc.ru&sid=cf56dd583fdef457#🇱🇻 Латвия
-vless://b9e5c4b7-1e9b-4ca5-82dc-43f3a440484c@45.15.125.8:8443?security=reality&encryption=none&pbk=YF_Vfx9VdDFXKM4bL1RZx6vsUqlSMtT56wPt987Aul8&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=max.ru&sid=db49831a996244d8#🇺🇲 США [Быстрый]
+vless://b9e5c4b7-1e9b-4ca5-82dc-43f3a440484c@45.15.125.8:8443?security=reality&encryption=none&pbk=YF_Vfx9VdDFXKM4bL1RZx6vsUqlSMtT56wPt987Aul8&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=max.ru&sid=db49831a996244d8#🇺🇸 США [Быстрый]
