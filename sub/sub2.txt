@@ -1,17 +1,14 @@
 #profile-title: Free4ever VPN
 #profile-update-interval: 6
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
-#announce: 🏆 Лучший Бесплатный VPN
+#announce: Доступны серверы из: 🇷🇺🇩🇪🇫🇮🇬🇧🇳🇱🇺🇸
 
-vless://001a44d7-69e6-07d0-8d11-828fe2119621@212.193.156.229:443?path=%2F%2F&security=tls&encryption=none&alpn=h2,http/1.1&host=lk-cdn.deploy-assure.ru&fp=chrome&allowinsecure=0&type=ws&sni=lk-cdn.deploy-assure.ru#🇷🇺 Россия [Быстрый]
-vless://148c2937-fb6d-07d0-93a8-369b1fbc9791@212.193.156.236:443?path=%2F%2F&security=tls&encryption=none&alpn=h2,http/1.1&host=lk-cdn.deploy-assure.ru&fp=chrome&allowinsecure=0&type=ws&sni=lk-cdn.deploy-assure.ru#🇷🇺 Россия #2 [Супербыстрый]
-vless://c60c4bb1-8886-07d0-b411-7aa0a7dc8a83@212.193.156.229:443?path=%2F%2F&security=tls&encryption=none&alpn=h2,http/1.1&host=lk-cdn.deploy-assure.ru&fp=chrome&allowinsecure=0&type=ws&sni=lk-cdn.deploy-assure.ru#🇷🇺 Россия #3 [Резервный]
-vless://5ccc22f7-d1cd-4a1d-932e-7bfca8b0ad4c@62.152.59.116:443?security=reality&encryption=none&pbk=yC3oBuJflplUqoZSYHFRIWu0vN3LEaNp2per6ktvmzg&headerType=none&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=max.ru#🇷🇺 Россия #4 [Супербыстрый]
-vless://f67ec830-438b-49a0-bbb0-7f5b36d7a286@51.250.1.66:443?security=reality&encryption=none&pbk=a7_KyEavpDL_m5UTvJ1vd2Zz-_7oY93uavMhILlW1jU&headerType=none&fp=qq&spx=%2F&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=eh.vk.com#🇦🇹 Австрия [Быстрый]
-vless://47a9c4df-f8a2-4717-89c5-64ce573711bf@185.86.145.81:443?security=reality&encryption=none&pbk=xb9KcKGaTow3uwmazMdS-J-io9sonmVFmgef6MGZ4Wc&headerType=none&fp=chrome&spx=%2F&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=max.ru&sid=10#🇨🇦 Канада [Супербыстрый]
-vless://a6abf70b-f734-42e5-ace6-208e4d53d207@95.163.183.41:443?security=reality&encryption=none&pbk=SHIYN7zN9aFVxwKK-bIvDbhUgtHvlBhDi1qSl2sWwRw&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=max.ru&sid=fb916778d4#🇨🇾 Кипр
-vless://6cabb434-f480-478a-9586-a5667167eeb1@149.33.38.157:8443?security=reality&encryption=none&pbk=tZ-tscsitfHIe63_9FAqruCnJaNFhRaKCnR8G-e4-CM&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=images.apple.com&sid=ae#🇨🇿 Чехия [Быстрый]
-vless://243203a9-77f5-4f55-b0b0-5f4ca08d3b1a@83.166.248.73:9887?security=none&encryption=none&headerType=none&type=tcp#🇨🇿 Чехия #2 [Супербыстрый]
-vless://ee515736-5679-4f97-a6e4-08706751c336@176.108.246.230:443?security=reality&encryption=none&pbk=LW4kZEMbix1PIESoiJUi8pSl-uIaupCXn9LHq9znVDQ&headerType=none&fp=randomized&spx=%2F&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=pimg.mycdn.me#🇩🇪 Германия [Быстрый]
-vless://243203a9-77f5-4f55-b0b0-5f4ca08d3b1a@83.166.239.197:9891?security=none&encryption=none&headerType=none&type=tcp#🇩🇪 Германия #2 [Резервный]
-vless://001a44d7-69e6-0bb8-8d11-828fe2119621@212.193.152.233:443?path=%2F%2F&security=tls&encryption=none&alpn=h2,http/1.1&host=lk-cdn.deploy-assure.ru&fp=chrome&allowinsecure=0&type=ws&sni=lk-cdn.deploy-assure.ru#🇩🇪 Германия #3 [Супербыстрый]
+vless://148c2937-fb6d-07d0-93a8-369b1fbc9791@212.193.156.229:443?path=%2F%2F&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&allowinsecure=0&type=ws&sni=lk-cdn.deploy-assure.ru#🇷🇺 Россия (Белые Списки )
+vless://804d4d94-33c8-07d0-a4fc-e10821a8a238@212.193.156.229:443?path=%2F%2F&security=tls&encryption=none&alpn=h2,http/1.1&host=lk-cdn.deploy-assure.ru&fp=chrome&allowinsecure=0&type=ws&sni=lk-cdn.deploy-assure.ru#🇷🇺 Россия (Белые Списки #2)
+vless://cddbd93a-40c6-41d7-ab90-2167cf846325@217.16.31.140:443?security=reality&encryption=none&pbk=sMMDn89-fJAD7VgeTJbdQTmyyUoyRucoMLMvVMm8hAM&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=cfdbaa7f996dd0e9#🇷🇺 Россия (Белые Списки #3)
+vless://aafe0563-a144-4cf4-9eed-8fbd54cc00c6@185.86.146.171:443?security=reality&encryption=none&pbk=OCRYYq4e92sQ-wWFRX6WX9pdvuFBWOqybLhpSiv3nFA&headerType=none&fp=qq&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=5post-gate.x5.ru&sid=111111#🇷🇺 Россия (Белые Списки #4)
+vless://92e289a9-7070-4bec-a5fc-9f84f9bdce0f@212.233.98.8:443?security=reality&encryption=none&pbk=THxJyX4Gsf_upzu8gDgNMmlJWVkP56k4FQrPUhM5hmc&headerType=none&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=vkru.enotfast.net&sid=12b4bc7ca90e01#🇩🇪 Германия
+vless://e314bbdb-4b14-47a9-ab09-b6f7949e931a@178.17.61.249:443?security=reality&encryption=none&pbk=dG51KhnbdjTmIhK03Cp9aWmkgDXTEBfVNUyOryLptnQ&headerType=none&fp=chrome&spx=%2F&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=github.com&sid=a1b2c3d4#🇫🇮 Финляндия
+vless://e0a446bc-5e87-4a54-ac72-48462a0ca233@2.27.61.11:8443?security=reality&encryption=none&pbk=i5a8i2AWUSMZ-rYA6hGBRCBBoe7W5ah33SCdF5JkMk4&headerType=none&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=apple.com&sid=8bcfe256cf216fd8#🇬🇧 Великобритания
+vless://9b4d1d66-072c-0014-9964-b2cf3cf085f7@217.16.31.164:443?security=reality&encryption=none&pbk=OCRYYq4e92sQ-wWFRX6WX9pdvuFBWOqybLhpSiv3nFA&headerType=none&fp=qq&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=5post-gate.x5.ru&sid=111111#🇳🇱 Нидерланды
+vless://1fabb370-dac5-47cd-a2cb-f8e82ed9223b@213.219.214.27:443?mode=auto&path=%2F&security=reality&encryption=none&pbk=_1Vo7MoIcb8M1u2e7BkXRQx52-ls3mnMqzTs-TrOjg0&host=vk.com&fp=chrome&allowinsecure=0&type=xhttp&sni=www.vk.com&sid=287d#🇺🇸 США
